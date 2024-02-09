@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BusinessCardAppV2</string>
+    <string name="MyName">Abriyan</string>
+    <string name="MyJob">Machine Learning Engineer</string>
+    <string name="MyPhNumber">+62XX-XXX-XXX-XXX</string>
+    <string name="MyEmail">123456@1234.com</string>
+    <string name="MyWeb">g.dev/abriyanyusuf</string>
+    <string name="verified">Verified</string>
+</resources>
