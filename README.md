@@ -1,4 +1,5 @@
 # BusinessCardAppV2
+![Screenshoot](https://www.dropbox.com/scl/fi/r70ldlf8215btyt425g2r/BusinessCardApp.png?rlkey=sjk1cv5liiw1yodlnoarjl215&dl=0)
 
 This is the respository of the final project of the pathway 3 [Android Basics with Compose Course](https://developer.android.com/courses/android-basics-compose/course). This project was created by following the existing guidelines, where I used Icons available at [Google Fonts](https://fonts.google.com/icons) and followed the usage guidelines in the [Icons](https://developer.android.com/reference/kotlin/androidx/compose/material/icons/Icons) documentation.
 
